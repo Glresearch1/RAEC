@@ -1,0 +1,3 @@
+# Install the base requirements first. vLLM manages its own torch compatibility;
+# use a separate CUDA environment for response judging.
+vllm

@@ -1,0 +1,8 @@
+# Versions retained from the original experiment environment.
+torch==2.6.0
+transformers==4.52.3
+accelerate==0.29.1
+tqdm==4.67.1
+pytest==8.4.1
+ruff==0.13.3
+datasets==3.6.0

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "example-1",
+    "vanilla prompt": "Explain why the sky appears blue.",
+    "refined prompt": "Explain why the sky appears blue in simple language."
+  },
+  {
+    "id": "example-2",
+    "instruction": "Explain photosynthesis in two sentences.",
+    "input": "Use language suitable for a middle-school student."
+  }
+]

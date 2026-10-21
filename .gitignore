@@ -1,0 +1,28 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local model caches and experiment outputs
+hf_models/
+checkpoints/
+outputs/
+output/
+results/
+wandb/
+*.pt
+*.pth
+*.safetensors
+*.log
+*.tmp
+
+# Local settings
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
